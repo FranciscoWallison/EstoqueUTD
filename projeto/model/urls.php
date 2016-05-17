@@ -3,13 +3,13 @@
 	//include_once '../controller/login.php';
 	
 	//Variável que guarda o nome do proj.
-	$project_name = "/www/tarde/projeto";
+	//$project_name = "/www/tarde/projeto";
 
 	//Variável que guarda o caminho do projeto no servidor.
-	$project_index = "http://".$_SERVER['SERVER_NAME']."/$project_name";	
+	$project_index = "http://".$_SERVER['SERVER_NAME'];	
 
 	//Variável do projeto no diretório de localização
-	$project_path = $_SERVER['DOCUMENT_ROOT']."/$project_name";
+	$project_path = $_SERVER['DOCUMENT_ROOT'];
 
 
 	//Globalizando as variáveis
