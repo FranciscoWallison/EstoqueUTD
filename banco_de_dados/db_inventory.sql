@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Tempo de geração: 06/01/2016 às 17:40
+-- Tempo de geração: 17/12/2015 às 14:40
 -- Versão do servidor: 5.5.46-0+deb8u1
 -- Versão do PHP: 5.6.14-0+deb8u1
 
@@ -107,8 +107,8 @@ CREATE TABLE `tb_user` (
 --
 
 INSERT INTO `tb_user` (`id_user`, `profile_id`, `user_name`, `user_email`, `user_password`, `user_created_in`, `user_status`, `user_last_access`) VALUES
-(1, 1, 'Administrador Padrão', 'admin@admin.com', '7c4a8d09ca3762af61e59520943dc26494f8941b', 1451167344, 1, '2016-01-06 12:54:26'),
-(3, 1, 'Alessandro Feitoza', 'eu@alessandrofeitoza.eu', 'c9904cff579a83a6b2f1ea4dd5dca8b3338dda97', 0, 0, '2015-12-26 22:17:21');
+(1, 1, 'Administrador Padrão', 'admin@admin.com', '7c4a8d09ca3762af61e59520943dc26494f8941b', 1451167344, 1, '2015-12-20 12:54:26'),
+(3, 1, 'Francisco Wallison', 'franciscowallison@gmail.com', 'c9904cff579a83a6b2f1ea4dd5dca8b3338dda97', 0, 0, '2015-12-20 22:17:21');
 
 --
 -- Índices de tabelas apagadas
