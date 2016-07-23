@@ -141,7 +141,7 @@
 
 		public function select_special($tables, $relationships, $filters, $query_extra){
 			//criando o objeto pdo...
-			$pdo = parent::get_instance();
+			 $pdo = parent::get_instance();
 
 
 			$query = "SELECT ";
