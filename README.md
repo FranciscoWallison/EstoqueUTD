@@ -6,7 +6,7 @@ MySQL (24 horas)
 
 # Módulo I - Bootstrap [4 horas]
 ```
-Unidade I - Gird 12 colunas(linhas e colunas)
+Unidade I - Grid 12 colunas(linhas e colunas)
 Unidade II - Responsividade
 Unidade III - Buttons, Glyphicons, Alerts, Panels
 ```
